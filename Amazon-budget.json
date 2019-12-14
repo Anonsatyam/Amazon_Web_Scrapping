@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amazon-budget",
+  "private_key_id": "94bbcabe718b8957d196eb5dbf0711119da0c208",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDc2RULYb3AHbY+\nQ1rhwEFIPYi78kr3V7APLMNMF9LQJ0mUJSwivbm+CrWr2aVNSkWddk+TEvJN92R2\njRvw6azs952tsSW2U/3Ze2lvrHniw/myEtZN2gcOHxZqAZbncAv/LcEVj7SdB37y\nf9Izh4I26+IHHuc3LaYf5xZkJ+gJduykiW8IkLyUKZRF7ja1b67YQMHLscELA69B\nv1JCiQlkgzP2r0b0Tag6x/m/e5YYbNGSEpRoGp92f693h3Mdx1dahzIU8D+Yuq5m\nyfu+zIJpnCnkylLFfTPe1+6ora8qlQj6XNlsRuwkM8amMFgkAeDHfZGQa5adUycF\nGA4Mt51fAgMBAAECggEAIQ7VmZiN4L4R04wdhIFUxE2BtDB2jEOx9POMYE2InuPi\nnaxayPCBZzMPMqQnnEQr24AkNS2223jWrvA8aHlyCx6dmaxUqtAzxWQ1yiOVMx6G\nt+Md9RVXzQNWRZPrVMVu5kmhB2s1a/P9SqtbeZ8lHLd+Y/Z6QcYxgcEDlwZqM1A0\niJ13cCn00JufO6J4tDMK1GlNV542bi3Uz5jNTLdRcxUgDE5JqNC3V9VSy/vBQ8Xp\njrxXUkkAA21MKDS0cH4Y/IlnhyrmGwuxZ8llrjjZVUSTN80kux3ePzuqZW938fMm\nn5jkE68MWymwaxP/E2sj0kR2l1VwOI0jwLrVhyd8QQKBgQD/s4EZeLCO932qTqlS\nMWTOQsK5UGombVKVNdgLB2pky6DOsBx7YJNsmwpmjIgrrHgGdUkjLmpwDcsxXsOD\n3bQ3f2BJZCuWVfezZV1hMD5nr2ZbRVnPcizIm2csM4OVSTVe8GTR5uecXXsg7wb6\nv+hgpdrq6LX0D5eO4W3fP9v3TwKBgQDdGya1V+POWPezSdgQcZLB6NbD7g+Mg5bS\n0eBdlN+J+BEhO41eQkx4QZ8hfdTZ3Pj8eAVAnluFxmgzAYSBQFJXlIbIhoi2QglF\nVwy92SziC1GCGZxXD2Wtd0TgSFXalksjUBMtcwYQGNFK7ycDHV/SjrVdijhwWHY5\nQiEe7yx08QKBgQCBNdcN5QPrKrsQvXEofJdA91FozW7mfiXWCoBiilvEFXXsG+g4\nnEPDBNGLooYI870vHkNYCNN2TjIYf5dy4ix4QuCIFZtE+6oQuC8otnVCdcrWYkQQ\n5NQmhwjquBlM7dKPaBC6VOFDDaXzrXWsbh9h/02RmQihDOP8KoQX5TAlVwKBgQCB\npnMbMO8+x0Jv2iQc+Evi8oJEn2p0rZCaDEEw/qPZhiGdSAtMMzod5fTGsb9HBODn\nQgVqb7EhD0d4aTJmi+38tvYVzXWK0cwX4cRx6k/8OEDSNexLzJaFkgNMNH5LT4e9\nrC2in+j1NWg8NWG93NKcZ9wHfo47qlOgnZtIRVzfMQKBgCn281q1acUtjM6VBGnh\nDpwo0O9i0aVmsn4sw5up+9jhscg3tTi9v9is8+SzSTpOEEDZdgr3sdOGsHzQhVXn\nouuhIwoa7VMI/IBlSWJFx6cY0nQztbtbWzJIWv1fAWrSwg08Qe6X4uRMy5ZiNvNY\n2xX457j3YRkSoD/PzPefs0N8\n-----END PRIVATE KEY-----\n",
+  "client_email": "amazon-budget@amazon-budget.iam.gserviceaccount.com",
+  "client_id": "101177492675085176283",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amazon-budget%40amazon-budget.iam.gserviceaccount.com"
+}
